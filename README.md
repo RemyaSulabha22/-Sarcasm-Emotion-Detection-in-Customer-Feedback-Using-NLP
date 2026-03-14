@@ -1,4 +1,4 @@
-# Sarcasm detection in Customer-Feedback using NLP 
+# emotion detection in Customer-Feedback using NLP 
 
 Problem Statement 
 
